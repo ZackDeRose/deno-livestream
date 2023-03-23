@@ -1,5 +1,5 @@
 {
-  "deno.enablePaths": ["apps/deno-api"],
+  "deno.enablePaths": ["apps/deno-api", "apps/example"],
   "deno.unstable": true,
   "deno.importMap": "./import_map.json"
 }
